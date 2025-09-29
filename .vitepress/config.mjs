@@ -11,7 +11,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
-      { text: 'webgl', link: '/webgl/experoment1' }
+      { text: 'webgl', link: '/webgl/experiment1' }
     ],
 
     sidebar: [
